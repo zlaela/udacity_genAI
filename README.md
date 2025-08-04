@@ -1,1 +1,1 @@
-Practice problems nad notes from the Udacity Generative AI nanodegree
+Practice problems and notes from the Udacity Generative AI nanodegree
