@@ -12,6 +12,13 @@ An open-source ML framework used for developing and training deep learning model
 - `Scalar Values` - Single numbers or quantities that can only have magnitude, not direction (ex: 7, or 3.14).
 - `Linear Algebra` - An area of math focusted on vector spaces and oeprations that can be performed on vectors and matrices.
 
+## Loss Functions
+
+- `Loss Function` - Measures how well a model is perfomring by calculating the difference between the prediction and actual result.
+- `Cross entropy loss` - A measure used when a model needs to choose between categories (i.e. cat or dog). Shows how well the prediction aligns with the actual category.
+  - A lower value means the predictions are closer to the actual.
+- `Mean squared error` - The average of the squares of the differences between predicted numbers and actual numbers. Often used for predicting continuous values rather than categories.
+
 ### Useful links
 
 - Introduction to PyTorch Tensors [tutorial] (https://docs.pytorch.org/tutorials/beginner/introyt/tensors_deeper_tutorial.html) has a nice video intro.
