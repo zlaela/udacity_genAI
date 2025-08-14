@@ -19,6 +19,13 @@ An open-source ML framework used for developing and training deep learning model
   - A lower value means the predictions are closer to the actual.
 - `Mean squared error` - The average of the squares of the differences between predicted numbers and actual numbers. Often used for predicting continuous values rather than categories.
 
+## Optimizers
+
+- `Gradients` - Directions and amounts by which a function increases the most. Can be changed in a direction *opposite* to the gradient of the loss function to reduce the loss.
+- `Learning rate` - A hyperparameter that specifies the magniutde of the steps when adjusting the neural network's settings during training.
+- `Momentum` - A technique that helps accelerate the optimizer in the correct direction and dampens oscillations.
+- 
+
 ### Useful links
 
 - Introduction to PyTorch Tensors [tutorial] (https://docs.pytorch.org/tutorials/beginner/introyt/tensors_deeper_tutorial.html) has a nice video intro.
