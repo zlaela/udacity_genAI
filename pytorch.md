@@ -23,4 +23,6 @@ An open-source ML framework used for developing and training deep learning model
 
 - Introduction to PyTorch Tensors [tutorial] (https://docs.pytorch.org/tutorials/beginner/introyt/tensors_deeper_tutorial.html) has a nice video intro.
 - The [docs] (https://docs.pytorch.org/docs/stable/tensors.html), of course.
-
+- CrossEntropyLoss [documentation] (https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html#torch.nn.CrossEntropyLoss).
+- MSELoss [documentation] (https://pytorch.org/docs/stable/generated/torch.nn.MSELoss.html#torch.nn.MSELoss).
+- Index of Pytorch [loss functions](https://pytorch.org/docs/stable/nn.html#loss-functions).
